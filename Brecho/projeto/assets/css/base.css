@@ -1,0 +1,7 @@
+@import "reset.css";
+@import "fonts.css";
+
+@font-face {
+    font-family: "Chilanka";
+    src: url("../fonts/chilanka/Chilanka-Regular.ttf");
+}
